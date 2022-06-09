@@ -24,5 +24,11 @@
 
 ### How to push work to github
 1) in terminal, type => git add -A
-2) in terminal, type => git commit -m "description in quotes"
+2) in terminal, type => git commit -m ‘description of commit’
+
+
 3) in terminal, type => git push
+
+os install
+
+
